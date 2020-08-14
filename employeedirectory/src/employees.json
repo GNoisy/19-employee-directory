@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "firstName": "Bob",
+        "lastName": "Belcher",
+        "phoneNumber": "(555) 124-9087",
+        "department": "Accounting",
+        "image" : "https://seattleheadshotpro.com/wp-content/uploads/2018/08/Thom-Seattle-Headshot-Pro-Professional-Headshots-corporate-headshots-seattle-500px.jpg"
+    },
+    {
+        "id": 2,
+        "firstName": "Calvin",
+        "lastName": "Fischoeder",
+        "phoneNumber": "(310) 476-9903",
+        "department": "Sales",
+        "image": "https://seattleheadshotpro.com/wp-content/uploads/2018/08/Brandon-Seattle-Headshot-Pro-Headshots-Seattle-500px.jpg"
+
+    },
+    {
+        "id": 3,
+        "firstName": "Lenny",
+        "lastName": "DeStefano",
+        "phoneNumber": "(458) 999-7761",
+        "department": "Collections",
+        "image" : "https://seattleheadshotpro.com/wp-content/uploads/2018/08/Brian-Seattle-Headshot-Pro-corporate-headshots-seattle-500px.jpg"
+    },
+    {
+        "id": 4,
+        "firstName": "Tabitha",
+        "lastName": "Johansson",
+        "phoneNumber": "(714) 265-1543",
+        "department": "Sales",
+        "image": "https://seattleheadshotpro.com/wp-content/uploads/2018/08/Kasaundra-Seattle-Headshot-Pro-Professional-headshots-seattle-500px.jpg"
+    },
+    {
+        "id": 5,
+        "firstName": "Torpedo",
+        "lastName": "Jones",
+        "phoneNumber": "(818)409-2269",
+        "department": "Engineering",
+        "image": "https://seattleheadshotpro.com/wp-content/uploads/2018/08/Marit-Seattle-Headshot-Pro-Professional-Headshots-Seattle-500px.jpg"
+    },
+    {
+        "id": 6,
+        "firstName": "Mike",
+        "lastName": "Wobbles",
+        "phoneNumber": "(714) 265-1543",
+        "department": "Accounting",
+        "image": "https://images.unsplash.com/photo-1530268729831-4b0b9e170218?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+        "id": 7,
+        "firstName": "Kerry",
+        "lastName": "Cranwankle",
+        "phoneNumber": "(336) 760-5230",
+        "department": "Engineering",
+        "image": "https://seattleheadshotpro.com/wp-content/uploads/2018/08/Melinda-Seattle-Headshot-Pro-Professional-Headshots-Seattle-500px.jpg"
+    },
+    {
+        "id": 8,
+        "firstName": "Courtney",
+        "lastName": "Wheeler",
+        "phoneNumber": "(778) 112-0954",
+        "department": "Collections",
+        "image": "https://seattleheadshotpro.com/wp-content/uploads/2018/08/Miriam-Seattle-Headshot-Pro-Headshots-Seattle-Professional-Headshot-Photographer-500px.jpg"
+    }
+    
+]
