@@ -1,5 +1,8 @@
 img {
     width: 100px;
+    border-style: solid;
+    border-color: purple;
+    border-width: 1px;
 }
 
 table {

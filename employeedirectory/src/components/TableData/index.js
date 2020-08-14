@@ -67,7 +67,6 @@ class App extends React.Component {
           <select onChange={this.filter}>
             <option />
             <option value="Accounting">Accounting</option>
-            <option value="Billing">Billing</option>
             <option value="Collections">Collections</option>
             <option value="Engineering">Engineering</option>
             <option value="Sales">Sales</option>
