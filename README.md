@@ -10,7 +10,7 @@ This screeshot shows the user searching for employees by the different methods.
 
 ## Deployed Link
 
-* [See Live Site]()
+* [See Live Site](https://gnoisy.github.io/19-employee-directory/)
 
 ## Prerequisites
 
